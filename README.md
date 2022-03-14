@@ -4,7 +4,7 @@ Dataset: Brazilian E-Commerce dataset
 
 Task: Create an ETL pipeline with Airflow
 
-Used technologies:
+Used technologies: <br/>
 •	AWS S3 <br/>
 •	Spark <br/>
 •	SparkSQL <br/>
