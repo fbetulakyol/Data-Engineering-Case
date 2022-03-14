@@ -17,3 +17,5 @@ Tasks are shown in below. <br/>
 • Datasets were downloaded from AWS S3 and cleaned. <br/>
 • The cleaned data was read with Spark and a query is written with SparkSQL. <br/>
 • Query result converted to csv file and uploaded to AWS S3. <br/>
+
+• AWS key_id and secret_key were removed from the code. <br/>
